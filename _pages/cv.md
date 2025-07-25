@@ -11,46 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D of Computer Science, University of Florida, 2019 - 2025
+* M.S. of Computer Science and Technology, Xiamen University, 2016 - 2019
+* B.E. of Information Security, Huazhong University of Science and Technology, 2012 - 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 05/2022 - 08/2025: Research Assistant
+  * University of Florida
+  * Supervisor: Dr. Kevin Butler and Dr. Sara Rampazzi
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 08/2019 - 05/2022: Research Assistant
+  * University of Florida
+  * Supervisor: Dr. Kevin Butler
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 09/2016 - 06/2019: Research Assistant
+  * Xiamen University
+  * Supervisor: Dr. Suzhen Wu
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
@@ -61,4 +44,18 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* IEEE ICEdge, PC, 2025
+* Journal of Computer Security, Reviewer, 2025
+* USENIX Security, Reviewer, 2025
+* USENIX ATC: Artifact Evaluation Committee Member, 2024
+* OSDI: Artifact Evaluation Committee Member, 2024
+* IEEE S&P: Reviewer, 2024
+* FICS, Lead Student, 2022 - 2023
+* USENIX Security: Artifact Evaluation Committee Member, 2023
+* ISOC NDSS: Reviewer, 2021
+* IEEE S&P: Reviewer, 2021
+* USENIX ATC: Reviewer, 2021
+* ACM ACSAC: Reviewer, 2021
+* USENIX Security: Reviewer, 2020
+* IEEE S&P: Reviewer, 2020
+* ACM WiSec: Reviewer, 2020
