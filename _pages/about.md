@@ -19,9 +19,10 @@ I received my Ph.D. from the Department of Computer & Information Security & Eng
 <span style="color:red">*For perspective students, please carefully read my publications and research introductions. This will help you better understand my work and identify how your research interests may align.* </span>
 
 
-News (From 2024)
+News (Since 2024)
 ======
-* [07/2025] Our paper ["Enabling Secure and Efficient Data Loss Prevention with a Retention-aware Versioning SSD"]() is accepted by ACM SIGSAC Conference on Computer and Communications Security (CCS 2025)!
+* [08/2025] Our paper ["SrFTL: Leveraging Storage Semantics for Effective Ransomware Defense in Flash-based SSDs"]() is accepted by ACM Transactions on Storage (TOS)!
+* [08/2025] Our paper ["Enabling Secure and Efficient Data Loss Prevention with a Retention-aware Versioning SSD"]() is accepted by ACM SIGSAC Conference on Computer and Communications Security (CCS 2025)!
 * [07/2025] I will join Florida International University as an assistant professor in August 2025!
 * [08/2024] My dissertation proposal ["Leveraging Storage Semantics to Enhance Data Security and Privacy"](https://dl.acm.org/doi/abs/10.1145/3658644.3690864) is accepted by ACM CCS'24 Doctoral Symposium!
 * [05/2024] Our paper ["Ransacked: A domain-informed approach for fuzzing lte and 5g ran-core interfaces"](https://dl.acm.org/doi/abs/10.1145/3658644.3670320) is accepted by ACM SIGSAC Conference on Computer and Communications Security (CCS 2024)!
