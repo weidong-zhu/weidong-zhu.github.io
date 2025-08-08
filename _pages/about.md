@@ -24,6 +24,7 @@ News (Since 2024)
 * [08/2025] Our paper ["SrFTL: Leveraging Storage Semantics for Effective Ransomware Defense in Flash-based SSDs"]() is accepted by ACM Transactions on Storage (TOS)!
 * [08/2025] Our paper ["Enabling Secure and Efficient Data Loss Prevention with a Retention-aware Versioning SSD"]() is accepted by ACM SIGSAC Conference on Computer and Communications Security (CCS 2025)!
 * [07/2025] I will join Florida International University as an assistant professor in August 2025!
+* [03/2025] I successfully defended my PhD dissertation in March 2025! Deepest thanks to my advisors and the program committee!
 * [08/2024] My dissertation proposal ["Leveraging Storage Semantics to Enhance Data Security and Privacy"](https://dl.acm.org/doi/abs/10.1145/3658644.3690864) is accepted by ACM CCS'24 Doctoral Symposium!
 * [05/2024] Our paper ["Ransacked: A domain-informed approach for fuzzing lte and 5g ran-core interfaces"](https://dl.acm.org/doi/abs/10.1145/3658644.3670320) is accepted by ACM SIGSAC Conference on Computer and Communications Security (CCS 2024)!
 * [04/2024] Our paper ["Minding the Semantic Gap for Effective Storage-Based Ransomware Defense"](https://par.nsf.gov/servlets/purl/10559373) is accepted by International Conference on Massive Storage Systems and Technology (MSST 2024) and invited for a submission at ACM Transactions on Storage!
