@@ -9,5 +9,5 @@ venue: 'Future Generation Computer Systems'
 slidesurl: #
 paperurl: 
 bibtexurl: 
-citation: 'Suzhen Wu, Weidong Zhu, Bo Mao, Kuan-Ching Li. PP: Popularity-based Proactive Data Recovery for HDFS RAID Systems. Future Generation Computer Systems. September 2018.'
+citation: 'Suzhen Wu, <b><i>Weidong Zhu</i></b>, Bo Mao, Kuan-Ching Li. PP: Popularity-based Proactive Data Recovery for HDFS RAID Systems. Future Generation Computer Systems. September 2018.'
 ---

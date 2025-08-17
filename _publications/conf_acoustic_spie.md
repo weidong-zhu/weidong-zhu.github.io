@@ -7,6 +7,6 @@ excerpt:
 date: 2025-05-21
 venue: 'SPIE Defense and Commercial Sensing'
 paperurl: 
-citation: 'Blow David, Adnan Abdullah, Jennifer Sheldon, Weidong Zhu, Md Jahidul Islam, and Sara Rampazzi. Detection and Localization of Acoustic Vulnerabilities of Underwater Data Centers for Remote Surveillance. SPIE Defense and Commercial Sensing, 2025.'
+citation: 'Blow David, Adnan Abdullah, Jennifer Sheldon, <b><i>Weidong Zhu</i></b>, Md Jahidul Islam, and Sara Rampazzi. Detection and Localization of Acoustic Vulnerabilities of Underwater Data Centers for Remote Surveillance. SPIE Defense and Commercial Sensing, 2025.'
 ---
 

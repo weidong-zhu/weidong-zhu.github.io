@@ -9,5 +9,5 @@ venue: 'IEEE Transactions on Computer-Aided Design of Integrated Circuits and Sy
 slidesurl: #
 paperurl: 
 bibtexurl: 
-citation: 'Suzhen Wu, Weidong Zhu, Yingxin Han, Hong Jiang, Bo Mao, Zhijie Huang, and Liang Chen. GC-Steering: GC-aware Request Steering and Parallel Reconstruction Optimizations for SSD-based RAIDs. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.'
+citation: 'Suzhen Wu, <b><i>Weidong Zhu</i></b>, Yingxin Han, Hong Jiang, Bo Mao, Zhijie Huang, and Liang Chen. GC-Steering: GC-aware Request Steering and Parallel Reconstruction Optimizations for SSD-based RAIDs. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020.'
 ---

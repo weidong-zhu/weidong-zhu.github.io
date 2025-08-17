@@ -7,6 +7,6 @@ excerpt:
 date: 2020-11-1
 venue: 'BlackHat USA'
 paperurl: 
-citation: 'Grant Hernandez, Marius Muench, Tyler Tucker, Hunter Serle, Weidong Zhu, Patrick Traynor and Kevin Butler. Emulating Samsung’s Baseband for Security Testing. BlackHat USA, 2020.'
+citation: 'Grant Hernandez, Marius Muench, Tyler Tucker, Hunter Serle, <b><i>Weidong Zhu</i></b>, Patrick Traynor and Kevin Butler. Emulating Samsung’s Baseband for Security Testing. BlackHat USA, 2020.'
 ---
 
