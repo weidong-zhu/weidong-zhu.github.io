@@ -21,8 +21,9 @@ I received my Ph.D. from the Department of Computer & Information Security & Eng
 
 News (Since 2024)
 ======
+* [09/2025] Our paper ["Enabling Plausible Deniability in Flash-based Storage through Data Permutation"]() is directly accepted by 41st Annual Computer Security Applications Conference (ACSAC 2025) without shepherd!
 * [08/2025] Our paper ["SrFTL: Leveraging Storage Semantics for Effective Ransomware Defense in Flash-based SSDs"]() is accepted by ACM Transactions on Storage (TOS)!
-* [08/2025] Our paper ["Enabling Secure and Efficient Data Loss Prevention with a Retention-aware Versioning SSD"]() is accepted by ACM SIGSAC Conference on Computer and Communications Security (CCS 2025)!
+* [08/2025] Our paper ["Enabling Secure and Efficient Data Loss Prevention with a Retention-aware Versioning SSD"]() is directly accepted by ACM SIGSAC Conference on Computer and Communications Security (CCS 2025) without shepherd!
 * [07/2025] I will join Florida International University as an assistant professor in August 2025!
 * [03/2025] I successfully defended my PhD dissertation in March 2025! Deepest thanks to my advisors and the program committee!
 * [08/2024] My dissertation proposal ["Leveraging Storage Semantics to Enhance Data Security and Privacy"](https://dl.acm.org/doi/abs/10.1145/3658644.3690864) is accepted by ACM CCS'24 Doctoral Symposium!
