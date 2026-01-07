@@ -44,7 +44,8 @@ Teaching
   
 Service and leadership
 ======
-* IEEE ICEdge, PC, 2025
+* ACM SIGOPS ATC, Program Committee, 2026
+* IEEE ICEdge, Program Committee, 2025
 * Journal of Computer Security, Reviewer, 2025
 * USENIX Security, Reviewer, 2025
 * USENIX ATC: Artifact Evaluation Committee Member, 2024

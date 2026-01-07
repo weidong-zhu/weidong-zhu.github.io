@@ -21,6 +21,7 @@ I received my Ph.D. from the Department of Computer & Information Security & Eng
 
 News (Since 2024)
 ======
+* [01/2026] I will serve on the program committee of ACM SIGOPS ATC 2026!
 * [09/2025] Our paper ["Enabling Plausible Deniability in Flash-based Storage through Data Permutation"]() is directly accepted by 41st Annual Computer Security Applications Conference (ACSAC 2025) without shepherd!
 * [08/2025] Our paper ["SrFTL: Leveraging Storage Semantics for Effective Ransomware Defense in Flash-based SSDs"]() is accepted by ACM Transactions on Storage (TOS)!
 * [08/2025] Our paper ["Enabling Secure and Efficient Data Loss Prevention with a Retention-aware Versioning SSD"]() is directly accepted by ACM SIGSAC Conference on Computer and Communications Security (CCS 2025) without shepherd!
