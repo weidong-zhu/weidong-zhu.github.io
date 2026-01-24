@@ -44,6 +44,8 @@ Teaching
   
 Service and leadership
 ======
+* ACM CCS, Program Committee, 2026
+* SecDev, Program Committee, 2026
 * ACM SIGOPS ATC, Program Committee, 2026
 * IEEE ICEdge, Program Committee, 2025
 * Journal of Computer Security, Reviewer, 2025
