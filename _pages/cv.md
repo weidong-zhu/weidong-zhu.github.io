@@ -44,6 +44,8 @@ Teaching
   
 Service and leadership
 ======
+* ACSAC, Program Committeem, 2026
+* EAI SmartSP, Program Committee, 2026
 * ACM CCS, Program Committee, 2026
 * SecDev, Program Committee, 2026
 * ACM SIGOPS ATC, Program Committee, 2026
