@@ -21,17 +21,18 @@ I received my Ph.D. from the Department of Computer & Information Security & Eng
 
 News (Since 2024)
 ======
+* [04/2026] I will serve on the program committees of IEEE S&P 2027.
 * [03/2026] I will serve on the program committees of ACSAC 2026.
 * [02/2026] I will serve on the program committees of EAI SmartSP 2026.
 * [01/2026] I will serve on the program committees of ACM CCS 2026, ACM SIGOPS ATC 2026, and SecDev 2026.
-* [09/2025] Our paper ["Enabling Plausible Deniability in Flash-based Storage through Data Permutation"]() is directly accepted by 41st Annual Computer Security Applications Conference (ACSAC 2025) without shepherd!
-* [08/2025] Our paper ["SrFTL: Leveraging Storage Semantics for Effective Ransomware Defense in Flash-based SSDs"]() is accepted by ACM Transactions on Storage (TOS)!
-* [08/2025] Our paper ["Enabling Secure and Efficient Data Loss Prevention with a Retention-aware Versioning SSD"]() is directly accepted by ACM SIGSAC Conference on Computer and Communications Security (CCS 2025) without shepherd!
+* [09/2025] Our paper ["Enabling Plausible Deniability in Flash-based Storage through Data Permutation"](https://ieeexplore.ieee.org/abstract/document/11391835) is directly accepted by 41st Annual Computer Security Applications Conference (ACSAC 2025) without shepherd!
+* [08/2025] Our paper ["SrFTL: Leveraging Storage Semantics for Effective Ransomware Defense in Flash-based SSDs"](https://dl.acm.org/doi/full/10.1145/3767322) is accepted by ACM Transactions on Storage (TOS)!
+* [08/2025] Our paper ["Enabling Secure and Efficient Data Loss Prevention with a Retention-aware Versioning SSD"](https://dl.acm.org/doi/abs/10.1145/3719027.3765135) is directly accepted by ACM SIGSAC Conference on Computer and Communications Security (CCS 2025) without shepherd!
 * [07/2025] I will join Florida International University as an assistant professor in August 2025!
 * [03/2025] I successfully defended my PhD dissertation in March 2025! Deepest thanks to my advisors and the program committee!
 * [08/2024] My dissertation proposal ["Leveraging Storage Semantics to Enhance Data Security and Privacy"](https://dl.acm.org/doi/abs/10.1145/3658644.3690864) is accepted by ACM CCS'24 Doctoral Symposium!
 * [05/2024] Our paper ["Ransacked: A domain-informed approach for fuzzing lte and 5g ran-core interfaces"](https://dl.acm.org/doi/abs/10.1145/3658644.3670320) is accepted by ACM SIGSAC Conference on Computer and Communications Security (CCS 2024)!
-* [04/2024] Our paper ["Minding the Semantic Gap for Effective Storage-Based Ransomware Defense"](https://par.nsf.gov/servlets/purl/10559373) is accepted by International Conference on Massive Storage Systems and Technology (MSST 2024) and invited for a submission at ACM Transactions on Storage!
+* [04/2024] Our paper ["Minding the Semantic Gap for Effective Storage-Based Ransomware Defense"](https://www.msstconference.org/MSST-history/2024/Papers/msst24-6.3.pdf) is accepted by International Conference on Massive Storage Systems and Technology (MSST 2024) and invited for a submission at ACM Transactions on Storage!
 * [04/2024] Our paper ["Aquasonic: Acoustic manipulation of underwater data center operations and resource management"](https://ieeexplore.ieee.org/abstract/document/10646672) is accepted by IEEE Security and Privacy (S&P 2024)!
 
 

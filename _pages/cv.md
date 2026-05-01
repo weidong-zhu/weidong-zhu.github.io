@@ -44,6 +44,7 @@ Teaching
   
 Service and leadership
 ======
+* IEEE S&P, Program Committeem, 2027
 * ACSAC, Program Committeem, 2026
 * EAI SmartSP, Program Committee, 2026
 * ACM CCS, Program Committee, 2026
